@@ -26,6 +26,9 @@ Ensure you have Python 3.7+ installed. You will also need to install the require
 - overview
 - genres
 - keywords
+
+  ![Alt text]("C:\Users\visma\OneDrive\Desktop\output.png")
+
 - cast
 - crew
 
