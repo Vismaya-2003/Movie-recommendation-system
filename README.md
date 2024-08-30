@@ -18,8 +18,8 @@ Ensure you have Python 3.7+ installed. You will also need to install the require
 
 ### Dataset
 
--**Data**
-The dataset used is the TMDB 5000 movies dataset, which includes 4806 movie records with the following columns:
+-**Data :**
+  The dataset used is the TMDB 5000 movies dataset, which includes 4806 movie records with the following columns:
 
 - movie_id
 - title
